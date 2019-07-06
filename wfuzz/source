@@ -1,0 +1,1 @@
+docker run --rm -it registry.cn-hangzhou.aliyuncs.com/xx-pen/wfuzz wfuzz 
